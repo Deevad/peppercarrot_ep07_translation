@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P05.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,30 +94,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1352.4264"
-     inkscape:cy="2574.4137"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="1263.1264"
+     inkscape:cy="680.73252"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep07_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -182,7 +182,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3084">I know that <flowSpan
    style="font-style:italic;-inkscape-font-specification:Lavi Italic"
-   id="flowSpan3572">sometimes</flowSpan> </flowPara><flowPara
+   id="flowSpan3572">sometimes</flowSpan></flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3574">the best wish is for</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
@@ -289,11 +289,11 @@
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
    style="font-size:40.7292366px"
-   id="flowSpan3980">April 2015 - www.peppercarrot.com - Art and</flowSpan> Scenario : David Revoy</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan3980">April 2015 - www.peppercarrot.com - Artwork and</flowSpan> story by David Revoy - Translation by Alex Gryson</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1216.7911,3156.4387)"><flowRegion
+       transform="translate(1343.2911,3153.5637)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
            width="1041.0548"
