@@ -16,6 +16,7 @@ License
 
 * French     : David Revoy
 * English    : Alex Gryson
+* Dutch      : Willem Sonke
 
 
 ## Fonts:
