@@ -14,15 +14,18 @@ License
 
 ## Translators and correctors :
 
-* French     : David Revoy
-* English    : Alex Gryson
 * Dutch      : Willem Sonke
+* English    : Alex Gryson
+* French     : David Revoy
+* Russian    : Denis "uncle Night" Prisukhin
 
 
 ## Fonts:
 
 * Lavi by Ruben Holthuijsen aka Rholt
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
+
+* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
 
 ## Artwork :
