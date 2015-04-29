@@ -16,7 +16,7 @@ License
 
 * Dutch      : Willem Sonke
 * English    : Alex Gryson
-* French     : David Revoy
+* French     : David Revoy, Aurélien Gâteau
 * Russian    : Denis "uncle Night" Prisukhin
 
 
