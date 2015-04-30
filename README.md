@@ -1,6 +1,6 @@
 # Pepper&Carrot translation project
 # Episode 07 : The Wish 
-# WORK-IN-PROGRESS
+
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
