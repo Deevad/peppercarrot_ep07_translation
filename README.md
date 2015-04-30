@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 07 : The Wish 
+# Episode 07 : The Wish
 
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -17,6 +17,8 @@ License
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
+
+* German     : Helmar Suschka, Alexandra Jordan
 
 * Japanese   : guruguru
 
