@@ -16,6 +16,7 @@ License
 
 * Dutch      : Willem Sonke
 * English    : Alex Gryson
+* Japanese   : guruguru
 * French     : David Revoy, Aurélien Gâteau
 * Russian    : Denis "uncle Night" Prisukhin
 
@@ -27,6 +28,8 @@ License
 
 * Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
+[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 ## Artwork :
 
