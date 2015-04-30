@@ -15,10 +15,16 @@ License
 ## Translators and correctors :
 
 * Dutch      : Willem Sonke
+
 * English    : Alex Gryson
+
 * Japanese   : guruguru
+
 * French     : David Revoy, Aurélien Gâteau
+
 * Russian    : Denis "uncle Night" Prisukhin
+
+* Spanish    : TheFaico
 
 
 ## Fonts:
