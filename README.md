@@ -30,6 +30,8 @@ License
 
 * Spanish    : TheFaico
 
+* Portuguese    : Frederico Batista
+
 
 ## Fonts:
 
