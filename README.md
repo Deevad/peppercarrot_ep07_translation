@@ -24,6 +24,8 @@ License
 
 * French     : David Revoy, Aurélien Gâteau
 
+* Mexican    : RJ Quiralta
+
 * Russian    : Denis "uncle Night" Prisukhin
 
 * Spanish    : TheFaico

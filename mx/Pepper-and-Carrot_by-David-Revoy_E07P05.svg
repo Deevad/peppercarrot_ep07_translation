@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P05.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-5-4-81-5-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-3-6-2"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-36-2-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-1-4-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-4-1-1"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-5-4-81-0"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-3-7"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-36-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-1-3"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-4-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.49190039"
+     inkscape:cx="1139.7494"
+     inkscape:cy="1874.7119"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/peppercarrot_ep07_translation-master/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1996.7176,1484.5049 c -47.1394,-16.9109 -95.2291,-33.6666 -9.0001,-72.3629 -80.9016,8.705 -30.846,-12.6528 -10.5778,-27.1724 -144.8727,26.4521 -50.369,-19.2753 -14.061,-47.455 -32.4523,10.8398 -84.6634,42.2328 -63.8362,-2.3497 -35.4005,13.8188 -57.4971,24.199 -27.1895,-1.5531 -32.0187,19.5903 -35.5211,16.4609 -28.4045,3.2316 -13.1531,10.9792 -21.5018,13.764 -21.0079,1.4679 -12.3875,9.0111 -15.9916,5.7387 -18.914,1.5134 -21.3995,19.4595 -28.9359,13.675 -36.9823,8.8187 -12.1397,11.6991 -25.7637,8.6933 -40.633,-6.6565 -16.4602,19.9882 -33.342,18.3834 -50.4598,4.6767 -3.7282,15.8822 -14.0183,31.6451 -24.4,-1.8321 -7.0737,2.5225 -12.2104,23.4274 -34.6528,-12.0175 -3.2708,38.3574 -84.8938,23.4715 -118.7097,3.2507 9.2084,30.0243 -8.972,43.2253 -66.4338,12.0274 -3.4915,11.9322 -21.2855,16.4212 -51.8419,14.2691 30.8888,15.1631 32.2161,23.4421 -40.3248,14.5191 50.3258,12.9614 96.6713,25.8361 17.605,35.9853 18.2569,5.1083 78.8549,-4.658 10.819,50.2713 47.3494,-11.4206 90.0519,-13.7272 101.4022,36.8442 25.7714,-12.6746 54.0235,-18.6166 75.018,12.215 20.5836,-13.7851 48.5698,-9.7599 62.9568,-2.4808 4.5021,-15.4894 35.2275,-38.7271 74.2058,5.4617 -8.0245,-24.809 0.068,-63.8707 44.9896,1.9399 1.329,-11.2493 -15.961,-72.9589 113.0471,3.4192 -14.6911,-49.6818 27.993,-20.0315 61.91,-2.5035 -16.0301,-31.2974 9.8024,-33.1292 65.4536,-13.9732 -42.3889,-30.3076 1.9677,-21.2303 30.022,-19.5545 z"
+       id="path3549-3-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1546.0353,1669.0575 c 1.1047,-64.2779 32.6465,-142.3338 304.3655,-128.1662 200.0129,10.4288 214.8504,25.9881 218.5144,111.4844 3.6642,85.4964 -70.9607,102.4826 -236.6859,110.7659 -166.1697,8.3055 -275.2064,-1.3265 -286.194,-94.0841 z"
+       id="path5026"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1667.6666,1599.9074 c -6.9031,32.4545 -3.5852,52.0587 -0.3875,56.8994 3.1978,4.8405 10.7873,17.717 13.4862,25.0045 2.2026,6.0554 7.1646,12.976 2.161,17.5999 -5.0037,4.6241 -38.4161,18.132 -44.1909,39.9564 -5.7748,21.8241 -0.1403,27.5491 10.4746,33.2413 10.6148,5.6925 24.344,13.4351 21.1361,29.7508 -3.208,16.316 -15.5688,27.4701 -22.2247,30.5744 -6.656,3.1043 -46.6521,14.3489 -57.1468,23.4201 -10.4947,9.0712 -39.8627,42.5729 -36.735,61.188 14.1899,-25.2101 21.7337,-36.9026 31.5274,-42.5482 9.7937,-5.6454 27.5656,-17.8856 38.2038,-16.7848 10.6383,1.1009 31.0235,5.7392 40.0561,-3.8627 9.0327,-9.6017 27.6322,-37.8115 28.8907,-54.8348 1.2586,-17.0232 -3.7351,-33.5555 -20.7923,-39.746 -10.6147,-5.6925 -15.0843,-10.0747 -13.7892,-15.1244 1.2952,-5.05 13.656,-16.2042 26.2669,-18.9873 12.6111,-2.7832 23.5931,-11.6775 25.2089,-22.1312 1.6155,-10.4537 -5.7824,-33.1186 -5.7358,-42.3016 0.047,-9.1832 -3.9006,-59.6356 -3.9006,-59.6356 z"
+       id="path5058"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsssssscssssccscccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5208"
+       d="m 1500.129,1219.4288 -23.6347,9.2241 c 13.4678,34.6216 23.7209,58.3448 36.8806,76.007 13.1598,17.6621 29.9172,28.3769 51.4769,34.5478 38.8046,11.1066 87.6095,29.6504 110.3563,63.7856 13.0544,19.5903 30.899,46.3181 40.3968,72.4104 9.4976,26.0925 10.8991,48.9765 -5.1622,67.5115 -18.3856,21.2176 -33.6353,27.9827 -49.2375,38.7459 -15.602,10.7633 -30.0776,26.7633 -37.7985,58.7242 l 24.6486,5.9701 c 6.6685,-27.6038 14.5297,-34.8223 27.5599,-43.8114 13.0304,-8.9892 32.7304,-18.4797 53.994,-43.0185 23.5881,-27.2213 20.8667,-62.4598 9.8275,-92.7869 -11.0391,-30.3271 -30.1459,-58.3231 -43.1213,-77.7948 -29.3128,-43.9883 -84.2642,-62.5983 -124.4829,-74.1097 -17.952,-5.1382 -27.8248,-11.5322 -38.1173,-25.346 -10.2925,-13.8139 -20.3066,-35.9214 -33.5862,-70.0593 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.89999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1237.9779,1127.7125 c -13.3063,-57.2951 -30.5879,-161.18656 269.5693,-161.35157 236.5688,-0.13005 247.0695,49.99827 266.7576,66.19077 33.1877,27.2952 90.8139,157.0512 -77.0659,193.6816 -231.4103,50.4924 -409.1344,29.5898 -459.261,-98.5208 z"
+       id="path3525"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1235.7882,1126.5326)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3058">... pero, ¿De verdad!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1,0,0,0.95312123,1098.4864,767.17947)"><flowRegion
+         id="flowRegion2989-5-4-5-3"><rect
+           id="rect2991-7-9-6-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3576">Se bien que aveces el</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7249">mejor de los deseos es</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7251">que todo siga igual...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-9-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1388.1769,1295.6444)"><flowRegion
+         id="flowRegion2989-5-4-5-3-6"><rect
+           id="rect2991-7-9-6-6-1"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3582">¡Desear &quot;seguir</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7255">durmiendo&quot;? </flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3584">¡Vaya desperdicio!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-4-5-16-68"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-5-4-81-0);font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(0.82433366,-0.36081689,0,0.88465495,667.96771,2206.9247)"><flowRegion
+         id="flowRegion2989-4-5-8-7-8-5-9-9"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-4-3-6-1"
+           width="319.66232"
+           height="53.089447"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-07-0-9-5"
+         style="font-size:48px;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Lavi">Zzzzz</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-4-5-16-6-6"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-5-4-81-5-7);font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(0.89377961,-0.3912139,0,0.95918268,698.75071,2115.8028)"><flowRegion
+         id="flowRegion2989-4-5-8-7-8-5-9-8-4"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-4-3-6-8-4"
+           width="319.66232"
+           height="53.089447"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-07-0-9-3-7"
+         style="font-size:48px;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Lavi">Zzzzz</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.85571819,0,0,0.85571819,131.95415,3068.5819)"><flowRegion
+         id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
+           id="rect2991-7-9-6-21-9-8-0-3-1-7"
+           width="2350.8157"
+           height="72.357925"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3272-6-3-1"><flowSpan
+   style="font-size:40.7292366px"
+   id="flowSpan3980">Abril 2015 - www.peppercarrot.com - Ilustración e Historia</flowSpan> de David Revoy - <flowSpan
+   style="font-size:32.13674927px"
+   id="flowSpan7257">Traducción : RJ Quiralta</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-6-3-8-7-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1343.2911,3153.5637)"><flowRegion
+         id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
+           id="rect2991-7-9-6-21-9-8-0-3"
+           width="1041.0548"
+           height="56.977448"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3272-6">Episodio 7 : El Deseo</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1926.7408,2974.0462)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       id="flowRoot4212-3-7-8-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6-7-8-3"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+           y="265.53046"
+           x="120.55251"
+           height="355.03918"
+           width="798.1947"
+           id="rect4216-4-0-26-5" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="flowPara4358-7-1">FIN</flowPara></flowRoot>  </g>
+</svg>
