@@ -14,6 +14,8 @@ License
 
 ## Translators and correctors :
 
+* Chinese    : Yan Jing
+
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
@@ -21,6 +23,8 @@ License
 * German     : Helmar Suschka, Alexandra Jordan
 
 * Japanese   : guruguru
+
+* Italian    : Carlo Gandolfi
 
 * French     : David Revoy, Aurélien Gâteau
 
