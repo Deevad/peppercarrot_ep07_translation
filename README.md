@@ -30,11 +30,11 @@ License
 
 * Mexican    : RJ Quiralta
 
+* Portuguese    : Frederico Batista
+
 * Russian    : Denis "uncle Night" Prisukhin
 
 * Spanish    : TheFaico
-
-* Portuguese    : Frederico Batista
 
 
 ## Fonts:
