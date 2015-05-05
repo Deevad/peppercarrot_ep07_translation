@@ -100,7 +100,7 @@
      showgrid="false"
      inkscape:zoom="0.3478261"
      inkscape:cx="1263.1264"
-     inkscape:cy="450.73253"
+     inkscape:cy="1370.7325"
      inkscape:window-x="32"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -111,13 +111,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Downloads/peppercarrot_ep07_translation-master/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep07_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -148,7 +148,7 @@
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.89999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1237.9779,1127.7125 c -13.3063,-57.2951 -30.5879,-161.18656 269.5693,-161.35157 236.5688,-0.13005 247.0695,49.99827 266.7576,66.19077 33.1877,27.2952 90.8139,157.0512 -77.0659,193.6816 -231.4103,50.4924 -409.1344,29.5898 -459.261,-98.5208 z"
+       d="m 1237.9779,1113.9761 c -13.3063,-63.6472 -30.5879,-179.05684 269.5693,-179.24014 236.5688,-0.14447 247.0695,55.54144 266.7576,73.52914 33.1877,30.3214 90.8139,174.4631 -77.0659,215.1546 -231.4103,56.0903 -409.1344,32.8703 -459.261,-109.4436 z"
        id="path3525"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -169,7 +169,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1098.4864,754.4571)"><flowRegion
+       transform="translate(1101.3614,711.3321)"><flowRegion
          id="flowRegion2989-5-4-5-3"><rect
            id="rect2991-7-9-6-6"
            width="602.40173"
@@ -184,7 +184,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3574">il miglior desiderio sia</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3576">non cambiare nulla...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3576">quello di non</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057">cambiare nulla...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9-1"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -287,7 +289,7 @@
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
    style="font-size:40.7292366px"
-   id="flowSpan3980">Aprile 2015 - www.peppercarrot.com - Disegno e sceneggiatura</flowSpan> di David Revoy - Traduzione di Carlo Gandolfi</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan3980">Aprile 2015 - www.peppercarrot.com - Disegni e Sceneggiatura</flowSpan> : David Revoy - Traduzione : Carlo Gandolfi</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

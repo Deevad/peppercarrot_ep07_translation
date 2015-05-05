@@ -262,7 +262,7 @@
      showgrid="false"
      inkscape:zoom="0.3478261"
      inkscape:cx="1122.3889"
-     inkscape:cy="1578.3075"
+     inkscape:cy="2498.3075"
      inkscape:window-x="32"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -273,13 +273,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Downloads/peppercarrot_ep07_translation-master/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep07_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -374,7 +374,7 @@
          id="flowPara3087"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi">qualsiasi cosa desideriate</flowPara><flowPara
          id="flowPara3089"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi">lo renderemo reale!</flowPara></flowRoot>    <path
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi">noi lo esaudiremo!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 851.39038,2789.2661 c 24.3309,-37.1046 75.5097,-68.3062 142.62942,-80.9555 67.1197,-12.6493 191.2912,-9.2762 213.1052,-5.0597 21.8138,4.2164 141.7903,19.3955 167.7991,40.4777 26.009,21.0822 61.2468,47.2241 68.7978,74.2092 7.5511,26.9852 0.839,91.9183 -23.4919,106.2542 -24.3309,14.3359 -135.0784,45.5375 -199.6812,47.224 -64.6028,1.6866 -214.783,-11.806 -257.5719,-21.0821 -42.78882,-9.2762 -88.09462,-21.0822 -101.51852,-50.5972 -13.424,-29.5151 -38.5939,-68.3063 -10.068,-110.4706 z"
        id="path3533"
