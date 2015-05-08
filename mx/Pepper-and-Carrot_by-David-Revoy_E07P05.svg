@@ -94,30 +94,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190039"
      inkscape:cx="1139.7494"
-     inkscape:cy="1874.7119"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:cy="248.36637"
+     inkscape:window-x="1918"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/peppercarrot_ep07_translation-master/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep07_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,7 +249,9 @@
    style="font-size:40.7292366px"
    id="flowSpan3980">Abril 2015 - www.peppercarrot.com - Ilustración e Historia</flowSpan> de David Revoy - <flowSpan
    style="font-size:32.13674927px"
-   id="flowSpan7257">Traducción : RJ Quiralta</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan3389">Adaptación</flowSpan><flowSpan
+   style="font-size:32.13674927px"
+   id="flowSpan7257"> : RJ Quiralta</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
