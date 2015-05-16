@@ -553,15 +553,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2630065"
-     inkscape:cx="1981.4125"
-     inkscape:cy="1171.0589"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:zoom="0.46000001"
+     inkscape:cx="1505.5964"
+     inkscape:cy="2034.0132"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -570,13 +570,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -612,7 +612,7 @@
          id="flowPara2995-4-1-5-0-07-0-9-3"
          style="font-size:48px;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Lavi">Zzzzz</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1734.2315,926.26354 c -0.2908,-54.62154 71.5631,-75.15449 131.1859,-75.89262 59.6228,-0.73798 111.9643,12.31133 128.9156,47.73701 16.9041,35.32694 27.3143,61.00746 -9.9838,84.95843 -35.0093,22.48114 -97.5605,19.50574 -122.2307,20.08024 -24.67,0.5744 -123.2421,23.1604 -127.887,-76.88306 z"
+       d="m 1734.2317,928.38799 c -0.3756,-56.14996 92.4615,-77.25746 169.4957,-78.01625 77.0343,-0.75863 144.6609,12.65583 166.5624,49.07279 21.8405,36.31546 35.2908,62.71457 -12.8994,87.33573 -45.2329,23.11024 -126.0507,20.05154 -157.9252,20.64214 -31.8744,0.5905 -159.2321,23.8085 -165.2335,-79.03441 z"
        id="path4974"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -660,7 +660,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1448.7533,639.42995)"><flowRegion
+       transform="translate(1492.2315,639.42995)"><flowRegion
          id="flowRegion2989-5-4-7-8"><rect
            id="rect2991-7-9-4-30"
            width="602.40173"
@@ -669,7 +669,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3117">Trouvé !</flowPara></flowRoot>    <path
+         id="flowPara3117">Ah ! Te voilà !</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 77.062662,1460.173 c 38.988648,-41.233 376.532028,-66.1601 465.938328,1.6036 74.62622,56.5614 45.50952,197.4195 -20.85862,229.8635 -66.36793,32.4441 -287.14991,28.6784 -383.91368,13.9691 -92.132408,-14.0053 -107.60296,-56.2786 -112.13487,-141.3957 -1.849656,-34.7396 11.979996,-62.8074 50.968842,-104.0405 z"
        id="path4040-4"
