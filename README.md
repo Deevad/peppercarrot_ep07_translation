@@ -20,6 +20,8 @@ License
 
 * Arabic     : Mahwiii
 
+* Català     : Juan José Segura
+
 * Chinese    : Yan Jing
 
 * Dutch      : Willem Sonke
