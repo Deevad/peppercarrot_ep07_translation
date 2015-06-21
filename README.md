@@ -44,6 +44,8 @@ License
 
 * Spanish    : TheFaico
 
+* Vietnamese : Binh Pham
+
 
 ## Fonts:
 
