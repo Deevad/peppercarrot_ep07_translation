@@ -28,6 +28,8 @@ License
 
 * English    : Alex Gryson
 
+* Esperanto  : libre fan
+
 * German     : Helmar Suschka, Alexandra Jordan
 
 * Japanese   : guruguru
