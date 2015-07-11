@@ -22,7 +22,7 @@ License
 
 * Català     : Juan José Segura
 
-* Chinese    : Yan Jing
+* Chinese    : Yan Jing, Ran Zhuang
 
 * Dutch      : Willem Sonke
 

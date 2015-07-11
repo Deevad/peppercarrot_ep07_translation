@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P04.svg">
@@ -256,15 +256,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60835002"
      inkscape:cx="1345.6006"
-     inkscape:cy="712.87338"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cy="384.11527"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -273,13 +273,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="D:\GitHub\peppercarrot_ep07_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -311,21 +311,21 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(-37.369423,-46.644112)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-37.369423,-58.644112)"><flowRegion
          id="flowRegion2989-5-4-7-8-3"><rect
            id="rect2991-7-9-4-30-4"
            width="651.27673"
            height="359.61493"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3134">欢迎光临... 冒险家们, </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3523">来到我们魔幻的</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3525">仙女洞府...</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3525">欢迎来到...</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3420">魔幻仙女的洞府，</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3422">冒险家们...</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
        d="m 425.7087,1414.3442 c 2.50821,-47.1717 32.60661,-67.388 46.4017,-74.1267 13.79511,-6.7388 72.73779,-16.8471 111.61489,-16.8471 38.8771,0 135.44279,3.3694 151.74603,5.0542 16.30334,1.6847 61.45097,35.3785 62.70505,65.7032 1.25408,30.3246 -6.27051,50.5408 -28.84427,69.0725 -22.57386,18.5318 -163.03301,26.9551 -171.81171,25.2705 -8.7787,-1.6847 -125.40999,-13.4775 -132.93458,-18.5317 -7.5246,-5.0541 -37.623,-18.5316 -38.87711,-55.5949 z"
        id="path3278"
@@ -341,7 +341,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.89646199,0,0,0.89646199,233.48622,1109.9936)"><flowRegion
          id="flowRegion2989-5-4-7-8-2"><rect
            id="rect2991-7-9-4-30-5"
@@ -349,11 +349,11 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3080-9-8-4">... 任何东西 ...</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3258">... 我想要</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara3080-9-8-4">...任何...</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara3258">...心愿</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1704.1559,783.53375 c 15.0806,-7.53958 30.6862,-15.59711 48.327,-16.21875 5.0266,-0.0706 10.2585,0.20669 15.1477,1.80976 4.7943,2.77389 6.8726,8.49722 6.506,13.58261 -0.01,7.41877 -3.1179,14.98419 -0.015,22.37291 2.3857,5.33331 8.3741,6.98326 13.303,8.80081 12.6369,4.39269 25.8206,7.14209 37.8356,13.47828 13.9293,6.28764 28.2014,13.88144 37.8238,26.33428 3.7291,4.98513 6.9675,10.67085 7.3754,16.82111 1.7617,15.78234 -5.4768,32.14569 -19.2324,39.39474 -9.2764,3.75885 -22.2306,-1.03867 -26.1755,-11.13678 -2.1603,-5.30502 -0.4798,-10.95101 2.4344,-15.21184 3.8131,-8.9409 2.0015,-19.94421 -3.7676,-28.37376 -4.6524,-7.02633 -11.3667,-12.67962 -18.8658,-16.39677 -9.0532,-7.65132 -21.0152,-8.13787 -31.7624,-10.81772 -4.897,-1.29615 -10.0421,-3.00052 -13.96,-6.45768 -4.5054,-6.17367 -3.0176,-13.90473 -0.9899,-20.24467 1.9181,-6.60474 4.9087,-13.99478 1.4661,-21.0136 -1.7535,-5.14454 -7.9331,-4.45362 -12.1576,-5.47918 -13.9058,-1.55727 -27.8053,1.2152 -40.0557,6.72664 -1.1213,0.61508 -2.1792,1.31977 -3.2372,2.02961 z"
        id="path4496"
@@ -361,19 +361,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1593.217,598.40709)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1593.217,632.40709)"><flowRegion
          id="flowRegion2989-5-4-7-8-3-8"><rect
            id="rect2991-7-9-4-30-4-1"
            width="651.27673"
            height="359.61493"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3150">... 我们答应你许下 </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3532">唯一的心愿, 你想要得到任何东西都能实现!</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3532">...许下任何一个心愿，</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3426">我们即可将它实现！</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 851.39038,2789.2661 c 24.3309,-37.1046 75.5097,-68.3062 142.62942,-80.9555 67.1197,-12.6493 191.2912,-9.2762 213.1052,-5.0597 21.8138,4.2164 141.7903,19.3955 167.7991,40.4777 26.009,21.0822 61.2468,47.2241 68.7978,74.2092 7.5511,26.9852 0.839,91.9183 -23.4919,106.2542 -24.3309,14.3359 -135.0784,45.5375 -199.6812,47.224 -64.6028,1.6866 -214.783,-11.806 -257.5719,-21.0821 -42.78882,-9.2762 -88.09462,-21.0822 -101.51852,-50.5972 -13.424,-29.5151 -38.5939,-68.3063 -10.068,-110.4706 z"
        id="path3533"
@@ -381,19 +381,21 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0-2-5"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(719.93746,2493.6623)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(719.93746,2485.6623)"><flowRegion
          id="flowRegion2989-5-4-7-8-2-3"><rect
            id="rect2991-7-9-4-30-5-1"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3195">我... 我想要什么呢？,</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3536">嗯, 我实在想要的是 ...</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3195">我……我想要……</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3428">嗯……我其实最想要</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle"
+         id="flowPara3432">的是……</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 996.3367,3050.4054 c -1.84383,-51.5637 25.8117,-88.3945 103.2467,-122.0687 77.4354,-33.6741 184.3696,-25.2556 212.0249,-14.7324 27.6556,10.5231 164.0892,42.0926 191.7444,79.9761 27.6555,37.8833 42.8243,50.124 33.6059,85.9029 -9.2183,35.7785 -11.4816,76.1537 -44.6679,88.7814 -33.1868,12.6279 -269.1797,29.465 -307.8973,21.0464 -38.7175,-8.4185 -101.4032,-10.5232 -134.5895,-35.7787 -33.6444,-25.604 -51.62363,-51.5635 -53.4672,-103.127 z"
        id="path3373"
@@ -425,7 +427,7 @@
            x="92.642677"
            y="425.30325"
            style="font-size:72px;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:3.45422935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:3.45422935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          id="flowPara3188">喵呜!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-4-5-16-6-6"
