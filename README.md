@@ -30,13 +30,15 @@ License
 
 * Esperanto  : libre fan
 
-* German     : Helmar Suschka, Alexandra Jordan
+* Finnish    : Kari Lehto
 
-* Japanese   : guruguru
+* French     : David Revoy, Aurélien Gâteau
+
+* German     : Helmar Suschka, Alexandra Jordan
 
 * Italian    : Carlo Gandolfi
 
-* French     : David Revoy, Aurélien Gâteau
+* Japanese   : guruguru
 
 * Mexican    : RJ Quiralta
 
