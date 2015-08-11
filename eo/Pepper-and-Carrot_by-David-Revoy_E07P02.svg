@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P02.svg">
@@ -553,15 +553,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1505.5964"
-     inkscape:cy="2034.0132"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:cy="729.6654"
+     inkscape:window-x="2"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -572,11 +572,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -694,7 +694,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3167">ni tuj rehejmeniros!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 490.10322,1794.2233 c -50.70941,-19.4272 -62.37865,-49.0743 -71.88799,-72.8404 -11.37672,-28.4331 -11.16569,-80.2683 -11.16569,-80.2683 l -28.08087,40.3771 c 0,0 5.01322,102.3461 111.13455,112.7316 z"
+       d="m 490.10322,1804.2233 c -50.70941,-19.4272 -62.37865,-49.0743 -71.88799,-72.8404 -11.37672,-28.4331 -11.16569,-80.2683 -11.16569,-80.2683 l -28.08087,40.3771 c 0,0 5.01322,102.3461 111.13455,112.7316 z"
        id="path3072"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccc" />
