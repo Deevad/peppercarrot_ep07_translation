@@ -260,9 +260,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="879.54309"
-     inkscape:cy="1111.1035"
+     inkscape:zoom="0.52900002"
+     inkscape:cx="1271.225"
+     inkscape:cy="614.02795"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -273,21 +273,21 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep07_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 147.91413,200.89551 c 68.41633,-40.59643 329.46479,-59.81522 422.05985,-26.03418 92.59463,33.78063 127.04848,80.45878 131.3552,101.10274 4.30645,20.64375 -6.46004,116.35612 -53.83419,135.1234 -47.37398,18.76708 -183.03591,28.15064 -230.41012,28.15064 -47.37398,0 -198.60242,-11.9452 -236.87059,-39.41105 C 143.60704,373.55308 79.497801,241.49194 147.91413,200.89551 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 167.63327,200.89551 c 65.98236,-40.59643 317.74377,-59.81522 407.04468,-26.03418 89.30048,33.78063 122.52861,80.45878 126.68211,101.10274 4.15324,20.64375 -6.23022,116.35612 -51.91899,135.1234 -45.6886,18.76708 -176.52423,28.15064 -222.21306,28.15064 -45.68861,0 -191.53695,-11.9452 -228.44369,-39.41105 -35.30491,-26.27398 -97.1334,-158.33512 -31.15105,-198.93155 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -303,8 +303,8 @@
      id="layer1"
      inkscape:label="txt">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1743.774,1018.4885 c -33.0272,-60.52636 11.5028,-206.57099 284.9515,-194.212 247.6291,11.19203 296.4548,68.60639 302.4931,89.79318 6.0384,21.18678 49.746,155.62022 -143.4823,187.40032 -193.2284,31.7803 -383.5784,-1.7656 -443.9623,-82.9815 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1751.3354,1039.2825 c -33.0272,-60.52641 -92.4669,-236.81679 277.3901,-215.006 247.452,14.59246 296.4548,68.60639 302.4931,89.79318 6.0384,21.18678 49.746,155.62022 -143.4823,187.40032 -193.2284,31.7803 -376.017,19.0284 -436.4009,-62.1875 z"
        id="path3525-4-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsc" />
@@ -312,7 +312,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-36.780602,-60.987996)"><flowRegion
+       transform="translate(-21.657729,-51.536201)"><flowRegion
          id="flowRegion2989-5-4-7-8-3"><rect
            id="rect2991-7-9-4-30-4"
            width="651.27673"
@@ -327,12 +327,12 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3423">awanturnicy.</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 425.7087,1414.3442 c 2.50821,-47.1717 32.60661,-67.388 46.4017,-74.1267 13.79511,-6.7388 72.73779,-16.8471 111.61489,-16.8471 38.8771,0 135.44279,3.3694 151.74603,5.0542 16.30334,1.6847 61.45097,35.3785 62.70505,65.7032 1.25408,30.3246 -6.27051,50.5408 -28.84427,69.0725 -22.57386,18.5318 -163.03301,26.9551 -171.81171,25.2705 -8.7787,-1.6847 -125.40999,-13.4775 -132.93458,-18.5317 -7.5246,-5.0541 -37.623,-18.5316 -38.87711,-55.5949 z"
+       d="m 425.7087,1421.9947 c 2.39368,-42.3169 31.11776,-60.4526 44.28296,-66.4978 13.16521,-6.0453 69.41652,-15.1133 106.51846,-15.1133 37.10193,0 129.25835,3.0227 144.81717,4.5341 15.55892,1.5113 58.64507,31.7374 59.84188,58.9412 1.19682,27.2037 -5.98419,45.3393 -27.52721,61.9638 -21.54312,16.6246 -155.58878,24.181 -163.96664,22.6698 -8.37786,-1.5113 -119.68366,-12.0905 -126.86467,-16.6245 -7.18102,-4.534 -35.9051,-16.6244 -37.10195,-49.8733 z"
        id="path3278"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 736.35084,1431.8971 c 7.05728,39.6808 13.13909,92.6419 84.61478,76.269 -4.0007,-0.2026 -87.19656,50.9004 -123.54329,-62.9123 -36.34678,-113.8128 7.75486,-33.0946 7.75486,-33.0946 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 704.21474,1428.1164 c 7.05728,39.6808 13.13909,92.6419 84.61478,76.269 -4.0007,-0.2026 -87.19656,50.9004 -123.54329,-62.9123 -36.34678,-113.8128 7.75486,-33.0946 7.75486,-33.0946 z"
        id="path4064"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc"
@@ -460,6 +460,6 @@
          sodipodi:role="line"
          id="tspan3427"
          x="2078.625"
-         y="967.25012"></tspan></text>
+         y="967.25012" /></text>
   </g>
 </svg>

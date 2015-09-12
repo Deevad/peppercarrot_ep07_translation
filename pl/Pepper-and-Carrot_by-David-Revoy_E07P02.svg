@@ -557,26 +557,26 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2630065"
-     inkscape:cx="897.78916"
-     inkscape:cy="2524.6376"
+     inkscape:zoom="0.92522433"
+     inkscape:cx="1489.5523"
+     inkscape:cy="2626.0287"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep07_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -611,8 +611,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-07-0-9-3"
          style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">zzzzz</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1734.2315,926.26354 c -0.2908,-54.62154 71.5631,-75.15449 131.1859,-75.89262 59.6228,-0.73798 111.9643,12.31133 128.9156,47.73701 16.9041,35.32694 27.3143,61.00746 -9.9838,84.95843 -35.0093,22.48114 -97.5605,19.50574 -122.2307,20.08024 -24.67,0.5744 -123.2421,23.1604 -127.887,-76.88306 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1715.8577,916.29024 c -0.3262,-62.22047 80.2683,-85.60996 147.1439,-86.45078 66.8756,-0.84065 125.5841,14.02408 144.5975,54.37817 18.9604,40.24162 30.6369,69.49481 -11.1982,96.77783 -39.268,25.60874 -109.4283,22.21934 -137.0995,22.87374 -27.671,0.6543 -138.2339,26.3825 -143.4437,-87.57896 z"
        id="path4974"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />

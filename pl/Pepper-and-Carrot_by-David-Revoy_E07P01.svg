@@ -71,9 +71,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="883.62641"
-     inkscape:cy="956.00753"
+     inkscape:zoom="0.60835002"
+     inkscape:cx="1415.794"
+     inkscape:cy="1856.948"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -84,13 +84,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep07_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-04-30_ep07_The-Wish/lang/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -135,7 +135,7 @@
        sodipodi:nodetypes="cssccccccsscssccc" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 1007.433,1398.6408 c -3.861,-46.4931 20.0705,-44.0948 40.3789,-53.5113 22.0867,-10.241 208.5623,-12.5405 229.0502,12.9677 20.3919,25.3888 35.612,70.1459 -26.6542,90.5043 -62.2662,20.3583 -170.0174,13.4853 -187.3697,8.9773 -16.3991,-4.2603 -49.5229,-22.3534 -55.4052,-58.938 z"
+       d="m 1032.0284,1405.377 c -3.2873,-41.5835 17.0886,-39.4384 34.3798,-47.8606 18.8052,-9.1596 177.5759,-11.2162 195.0199,11.5984 17.3622,22.7077 30.3211,62.7386 -22.6941,80.9472 -53.0152,18.2085 -144.7577,12.0613 -159.532,8.0293 -13.9627,-3.8104 -42.1652,-19.9929 -47.1736,-52.7143 z"
        id="path3659"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
