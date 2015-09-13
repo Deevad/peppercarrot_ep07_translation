@@ -51,6 +51,8 @@ License
 
 * Spanish: TheFaico
 
+* Swedish: Quiphius
+
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 * Vietnamese: Binh Pham
