@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P04.svg">
@@ -256,15 +256,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1549.5701"
-     inkscape:cy="780.0513"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cx="1060.8201"
+     inkscape:cy="320.05132"
+     inkscape:window-x="2"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -275,11 +275,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -396,7 +396,7 @@
          id="flowPara3191">Mi ... Mi dezirus ...</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3195">Nu, tio, kion mi volas, estus, ke     </flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffeeaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 990.61917,3040.3997 c -1.84383,-51.5637 25.81173,-88.3945 103.24673,-122.0687 77.4354,-33.6741 184.3696,-25.2556 212.0249,-14.7324 27.6556,10.5231 164.0892,42.0926 191.7444,79.9761 27.6555,37.8833 42.8243,50.124 33.6059,85.9029 -9.2183,35.7785 -11.4816,76.1537 -44.6679,88.7814 -33.1868,12.6279 -269.1797,29.465 -307.8973,21.0464 -38.7175,-8.4185 -101.4032,-10.5232 -134.5895,-35.7787 -33.6444,-25.604 -51.62366,-51.5635 -53.46723,-103.127 z"
        id="path3373"
        inkscape:connector-curvature="0"
@@ -409,7 +409,7 @@
        inkscape:transform-center-x="-100.12136"
        inkscape:transform-center-y="-14.82893" />
     <path
-       style="color:#000000;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffeeaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1121.005,3029.1353 c -8.5473,8.3678 -18.4518,15.1367 -28.8393,20.9717 -3.2203,5.9554 -2.1389,14.0028 -5.43,20.4314 -6.0973,19.4354 -14.4194,38.1643 -19.5947,57.8801 -1.5715,9.8429 -4.1282,18.2099 -6.9615,28.0204 -3.9795,6.8618 -13.2779,1.215 -19.5623,1.5073 -14.9089,-1.7758 -30.8758,-4.3048 -45.2,1.5832 -8.3361,3.7426 -12.2268,13.0983 -13.984,21.5162 -2.0242,13.5678 8.3437,24.2836 16.6717,33.5666 11.155,12.4171 24.458,23.8196 31.0241,39.5359 2.6749,5.9625 1.0938,12.6849 -2.6011,17.8233 -6.038,9.4176 -16.2538,15.691 -27.7017,17.9522 -7.2749,0.2775 -11.7355,-1.1201 -18.3798,-3.482 -23.52374,-10.2283 -46.63175,-21.7518 -71.25283,-29.1705 -10.51032,-3.5675 -21.48827,0.245 -31.77575,2.7244 -13.60816,4.2443 -28.35796,9.4633 -37.21806,21.3027 -2.94313,3.4879 -9.53945,11.6917 -2.4434,4.6497 13.27821,-8.0818 30.61288,-14.5005 46.85697,-14.2915 18.66665,2.374 38.13131,3.2822 55.453,11.3443 9.97965,5.8213 19.15903,13.0286 29.62447,18.061 10.69,5.3509 22.9946,10.7044 35.0489,6.5877 14.9487,-3.7122 30.8329,-7.9015 42.3378,-18.7372 7.4958,-7.4765 7.6989,-19.0855 6.8932,-28.9685 -1.9322,-17.2159 -12.4609,-32.034 -24.7492,-43.6415 -7.1169,-8.379 -16.3505,-15.5675 -20.466,-26.034 -2.8834,-7.2348 4.3517,-12.5377 11.0217,-12.1179 12.9649,-1.4536 25.9647,1.6191 37.7885,6.8172 8.8613,2.9837 20.5712,5.5185 27.9773,-1.8692 5.6661,-7.2812 4.9741,-17.2671 5.9452,-25.9778 0.3459,-16.1846 9.8546,-17.9478 16.0768,-32.881 5.761,-13.3456 11.9694,-26.6456 17.2578,-40.1146 -1.2726,-18.3298 -2.5452,-36.6598 -3.8178,-54.9896 z"
        id="path5058"
        inkscape:connector-curvature="0"
@@ -417,7 +417,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial;"
        transform="matrix(1.1593277,0,0,1.2764492,953.78371,2394.9652)"><flowRegion
          id="flowRegion3065-8"
          style="stroke-width:4.3819828"><rect
@@ -426,8 +426,8 @@
            height="103.50144"
            x="92.642677"
            y="425.30325"
-           style="font-size:72px;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#e95c00;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:3.45422935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-size:72px;color:#000000;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;" /></flowRegion><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#df773e;stroke-width:3.45422935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi;"
          id="flowPara3188">Miaŭ!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-4-5-16-6-6"
