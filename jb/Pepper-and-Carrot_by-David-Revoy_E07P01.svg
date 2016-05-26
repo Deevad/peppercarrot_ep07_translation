@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P01.svg">
@@ -67,15 +67,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="695"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1238.6889"
-     inkscape:cy="731.75753"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="0.17391305"
+     inkscape:cx="1062.787"
+     inkscape:cy="951.69558"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -84,8 +84,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep07_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
+       sodipodi:absref="F:\peppercarrot_ep07_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
        y="0"
        x="0"
        id="image10"
@@ -115,19 +115,19 @@
      inkscape:label="txt"
      style="display:inline">
     <flowRoot
-       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1678.9848,2469.45)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1682.9848,2457.45)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1">CARROT!</flowPara></flowRoot>    <path
+         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4358-7-1">la karot</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4386);enable-background:accumulate"
        d="m 1130.9355,1420.8031 c 35.4075,36.6291 -35.3248,128.4463 -30.2477,159.6057 1.7037,10.4559 15.7023,38.6761 22.6642,45.772 11.7462,11.9725 21.4456,-4.2547 9.8057,104.7659 -3.501,24.5293 25.2149,48.129 50.2844,43.6327 9.8174,0.8259 26.4513,15.2015 11.9531,85.4934 -1.4817,20.5997 10.6511,44.0861 24.7163,47.1263 7.4113,1.0783 23.1477,14.7462 22.0529,39.0223 0.7506,-39.1086 -26.9408,-53.9278 -32.4145,-63.4487 -6.1657,-12.3612 1.0899,-53.8941 3.1944,-80.1354 2.1044,-26.2412 -13.9676,-38.466 -22.9688,-43.0948 -9.0012,-4.6289 -34.1277,-7.8027 -38.0808,-22.2547 -3.9532,-14.453 6.8533,-69.6072 1.5463,-96.9276 -5.3069,-27.3194 -24.4286,-31.5827 -28.3392,-57.191 -3.9106,-25.6084 32.0272,-85.6156 36.3362,-113.7853 5.8624,-29.8996 -3.1778,-66.3244 -3.1778,-66.3244 z"
        id="path3153"
@@ -142,7 +142,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.73821363,0,0,1,838.19342,1104.3342)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -150,7 +150,7 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">CARROT!</flowPara></flowRoot>  </g>
+         id="flowPara3030-8">ju'i la karot</flowPara></flowRoot>  </g>
 </svg>
