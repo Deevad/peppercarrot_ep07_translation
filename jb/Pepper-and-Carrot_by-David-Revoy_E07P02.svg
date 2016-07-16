@@ -559,7 +559,7 @@
      showgrid="false"
      inkscape:zoom="0.2630065"
      inkscape:cx="1528.633"
-     inkscape:cy="2166.3323"
+     inkscape:cy="1329.8511"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -572,11 +572,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep07_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -660,7 +660,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-9-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1448.7533,601.42995)"><flowRegion
+       transform="translate(1448.7533,593.42995)"><flowRegion
          id="flowRegion2989-5-4-7-8"><rect
            id="rect2991-7-9-4-30"
            width="602.40173"
@@ -671,7 +671,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3469">mi co'i</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara15100">tolcri ui do</flowPara></flowRoot>    <path
+         id="flowPara15100">zvafa'i ui do</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 77.062662,1460.173 c 38.988648,-41.233 376.532028,-66.1601 465.938328,1.6036 74.62622,56.5614 45.50952,197.4195 -20.85862,229.8635 -66.36793,32.4441 -287.14991,28.6784 -383.91368,13.9691 -92.132408,-14.0053 -107.60296,-56.2786 -112.13487,-141.3957 -1.849656,-34.7396 11.979996,-62.8074 50.968842,-104.0405 z"
        id="path4040-4"
