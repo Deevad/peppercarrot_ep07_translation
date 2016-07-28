@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 07: The Wish
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -19,7 +19,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Yan Jing, Ran Zhuang
 
@@ -31,11 +31,13 @@ License
 
 * Finnish: Kari Lehto
 
-* French: David Revoy, Aurélien Gâteau
+* French: David Revoy, Aur?lien G?teau
 
 * German: Helmar Suschka, Alexandra Jordan
 
-* Hungarian: Halász Gábor "Hali"
+* Greek: George Karettas
+
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
@@ -47,7 +49,7 @@ License
 
 * Mexicano: RJ Quiralta
 
-* Polish: Sölve Svartskogen
+* Polish: S?lve Svartskogen
 
 * Portuguese: Frederico Batista
 
