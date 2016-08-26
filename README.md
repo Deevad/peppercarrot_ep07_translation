@@ -45,6 +45,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Lojban: Gleki Arxokuna
 
 * Mexicano: RJ Quiralta
