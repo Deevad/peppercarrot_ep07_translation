@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E07P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-5-4-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-1"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-7"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.3478261"
+     inkscape:cx="1238.6889"
+     inkscape:cy="1996.7575"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/sandbox/peppercarrot_ep07_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1935.912,2814.6292 c -8.3389,27.3177 -55.3716,29.6083 -72.6857,24.0555 34.9011,30.5599 33.6846,49.5472 -13.7015,52.4953 79.467,55.0766 14.5277,46.7423 1.7189,60.7082 62.3962,18.9806 34.4796,42.6025 23.3707,66.1177 71.7183,0.8077 48.2482,38.5016 51.271,68.5226 6.0801,-14.0871 34.9643,-56.9746 36.7024,-9.2222 47.4373,-45.5584 104.5746,-74.9868 109.1114,4.7405 19.1134,-40.1087 38.1693,-57.0602 36.7023,-9.2224 47.3569,-62.219 89.9136,-39.8231 132.7225,-22.2376 11.2436,-18.7793 12.5536,-47.6295 48.9292,-40.8686 -5.1004,-18.6135 7.1817,-31.4084 34.9182,-39.0066 -36.8574,-11.2439 -43.6502,-22.8417 24.786,-35.3228 -52.076,-1.2072 -100.6372,-3.6807 -39.5407,-46.2448 -19.1676,-1.0298 -64.6449,34.4868 -43.4416,-69.4534 -32.9598,33.2749 -68.125,51.6403 -112.2253,-18.0621 -20.8706,34.8219 -57.07,52.0532 -72.8185,8.5579 -5.6603,18.5428 -29.1312,25.5165 -49.0561,26.3622 -7.705,-7.3656 -15.6519,-17.3699 -23.9448,-30.4772 -13.5539,27.5218 -33.8293,46.1088 -72.8184,8.5578 z"
+       id="path3549-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1742.7036,3067.8954 c 45.1177,-3.1669 90.2875,-13.3682 135.3447,-8.3621 l -32.4594,-24.0325 c 16.9976,-6.8774 36.0555,-2.8323 54.414,-2.4961 l -17.5538,-18.2661 c 40.3132,-15.7315 80.1001,-12.7282 120.1413,-18.78 l -33.1678,-29.3234 c -39.7931,10.966 -77.3512,28.3649 -119.6584,32.0952 l 15.3013,19.6437 c -14.4336,3.3733 -29.0234,6.1661 -44.3109,6.366 l 21.4226,22.896 z"
+       id="path4032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <flowRoot
+       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1678.9848,2469.45)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot4212-3-7-8-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6-7-8-3"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="265.53046"
+           x="120.55251"
+           height="355.03918"
+           width="798.1947"
+           id="rect4216-4-0-26-5" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4358-7-1">당근아!</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4386);enable-background:accumulate"
+       d="m 1130.9355,1420.8031 c 35.4075,36.6291 -35.3248,128.4463 -30.2477,159.6057 1.7037,10.4559 15.7023,38.6761 22.6642,45.772 11.7462,11.9725 21.4456,-4.2547 9.8057,104.7659 -3.501,24.5293 25.2149,48.129 50.2844,43.6327 9.8174,0.8259 26.4513,15.2015 11.9531,85.4934 -1.4817,20.5997 10.6511,44.0861 24.7163,47.1263 7.4113,1.0783 23.1477,14.7462 22.0529,39.0223 0.7506,-39.1086 -26.9408,-53.9278 -32.4145,-63.4487 -6.1657,-12.3612 1.0899,-53.8941 3.1944,-80.1354 2.1044,-26.2412 -13.9676,-38.466 -22.9688,-43.0948 -9.0012,-4.6289 -34.1277,-7.8027 -38.0808,-22.2547 -3.9532,-14.453 6.8533,-69.6072 1.5463,-96.9276 -5.3069,-27.3194 -24.4286,-31.5827 -28.3392,-57.191 -3.9106,-25.6084 32.0272,-85.6156 36.3362,-113.7853 5.8624,-29.8996 -3.1778,-66.3244 -3.1778,-66.3244 z"
+       id="path3153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccsscssccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 1007.433,1398.6408 c -3.861,-46.4931 20.0705,-44.0948 40.3789,-53.5113 22.0867,-10.241 208.5623,-12.5405 229.0502,12.9677 20.3919,25.3888 35.612,70.1459 -26.6542,90.5043 -62.2662,20.3583 -170.0174,13.4853 -187.3697,8.9773 -16.3991,-4.2603 -49.5229,-22.3534 -55.4052,-58.938 z"
+       id="path3659"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.73821363,0,0,1,838.19342,1104.3342)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3030-8">당근아!</flowPara></flowRoot>  </g>
+</svg>
