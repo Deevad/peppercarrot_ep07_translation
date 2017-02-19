@@ -67,16 +67,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.56"
-     inkscape:cx="2116.4442"
-     inkscape:cy="676.04325"
-     inkscape:window-x="960"
+     inkscape:cx="1259.3013"
+     inkscape:cy="2247.4718"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep07_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1918.0382,2814.6292 c -6.6136,27.3177 -43.915,29.6083 -57.6468,24.0555 27.6799,30.5599 26.7151,49.5472 -10.8666,52.4953 63.025,55.0766 11.5219,46.7423 1.3633,60.7082 49.4861,18.9806 27.3456,42.6025 18.5352,66.1177 56.8795,0.8077 38.2654,38.5016 40.6628,68.5226 4.8221,-14.0871 27.7301,-56.9746 29.1085,-9.2222 37.6224,-45.5584 82.9378,-74.9868 86.5359,4.7405 15.1588,-40.1087 30.2719,-57.0602 29.1084,-9.2224 37.5586,-62.219 71.3102,-39.8231 105.2618,-22.2376 8.9172,-18.7793 9.9562,-47.6295 38.8055,-40.8686 -4.0451,-18.6135 5.6958,-31.4084 27.6935,-39.0066 -29.2314,-11.2439 -34.6188,-22.8417 19.6577,-35.3228 -41.3013,-1.2072 -79.815,-3.6807 -31.3596,-46.2448 -15.2017,-1.0298 -51.2696,34.4868 -34.4533,-69.4534 -26.1403,33.2749 -54.0297,51.6403 -89.0055,-18.0621 -16.5524,34.8219 -45.262,52.0532 -57.7521,8.5579 -4.4892,18.5428 -23.1038,25.5165 -38.9062,26.3622 -6.1108,-7.3656 -12.4135,-17.3699 -18.9905,-30.4772 -10.7496,27.5218 -26.8299,46.1088 -57.752,8.5578 z"
+       d="m 1926.9813,2814.6292 c -7.4769,27.3177 -49.6473,29.6083 -65.1715,24.0555 31.293,30.5599 30.2023,49.5472 -12.285,52.4953 71.2517,55.0766 13.0259,46.7423 1.5413,60.7082 55.9455,18.9806 30.915,42.6025 20.9546,66.1177 64.304,0.8077 43.2602,38.5016 45.9705,68.5226 5.4515,-14.0871 31.3497,-56.9746 32.908,-9.2222 42.5333,-45.5584 93.7638,-74.9868 97.8315,4.7405 17.1375,-40.1087 34.2233,-57.0602 32.908,-9.2224 42.4611,-62.219 80.6183,-39.8231 119.0016,-22.2376 10.0812,-18.7793 11.2558,-47.6295 43.8708,-40.8686 -4.5731,-18.6135 6.4393,-31.4084 31.3084,-39.0066 -33.047,-11.2439 -39.1376,-22.8417 22.2236,-35.3228 -46.6924,-1.2072 -90.2333,-3.6807 -35.453,-46.2448 -17.186,-1.0298 -57.9618,34.4868 -38.9505,-69.4534 -29.5524,33.2749 -61.0822,51.6403 -100.6234,-18.0621 -18.713,34.8219 -51.1701,52.0532 -65.2905,8.5579 -5.0752,18.5428 -26.1196,25.5165 -43.9847,26.3622 -6.9084,-7.3656 -14.0338,-17.3699 -21.4693,-30.4772 -12.1528,27.5218 -30.332,46.1088 -65.2904,8.5578 z"
        id="path3549-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
@@ -115,19 +115,19 @@
      inkscape:label="txt"
      style="display:inline">
     <flowRoot
-       transform="matrix(2.3615366,0,-0.5753625,3.3512478,969.58641,1953.5303)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.60617657;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       transform="matrix(2.3615366,0,-0.5753625,3.3512478,1005.3007,1957.1017)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.76822942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:1.60617657;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.76822942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:1.60617657;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         id="flowPara4358-7-1">캐럿!</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:0.76822942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4358-7-1">당근아!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4386);enable-background:accumulate"
        d="m 1130.9355,1420.8031 c 35.4075,36.6291 -35.3248,128.4463 -30.2477,159.6057 1.7037,10.4559 15.7023,38.6761 22.6642,45.772 11.7462,11.9725 21.4456,-4.2547 9.8057,104.7659 -3.501,24.5293 25.2149,48.129 50.2844,43.6327 9.8174,0.8259 26.4513,15.2015 11.9531,85.4934 -1.4817,20.5997 10.6511,44.0861 24.7163,47.1263 7.4113,1.0783 23.1477,14.7462 22.0529,39.0223 0.7506,-39.1086 -26.9408,-53.9278 -32.4145,-63.4487 -6.1657,-12.3612 1.0899,-53.8941 3.1944,-80.1354 2.1044,-26.2412 -13.9676,-38.466 -22.9688,-43.0948 -9.0012,-4.6289 -34.1277,-7.8027 -38.0808,-22.2547 -3.9532,-14.453 6.8533,-69.6072 1.5463,-96.9276 -5.3069,-27.3194 -24.4286,-31.5827 -28.3392,-57.191 -3.9106,-25.6084 32.0272,-85.6156 36.3362,-113.7853 5.8624,-29.8996 -3.1778,-66.3244 -3.1778,-66.3244 z"
        id="path3153"
@@ -152,5 +152,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3030-8">캐럿 !</flowPara></flowRoot>  </g>
+         id="flowPara3030-8">당근아!</flowPara></flowRoot>  </g>
 </svg>
