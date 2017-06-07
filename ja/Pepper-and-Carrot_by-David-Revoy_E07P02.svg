@@ -129,7 +129,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2-7"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.40000000000000002"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1-2"
@@ -156,7 +156,7 @@
       <feMorphology
          id="feMorphology3792"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3794"
@@ -183,7 +183,7 @@
       <feMorphology
          id="feMorphology3802"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3804"
@@ -210,7 +210,7 @@
       <feMorphology
          id="feMorphology3812"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3814"
@@ -237,7 +237,7 @@
       <feMorphology
          id="feMorphology3822"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3824"
@@ -264,7 +264,7 @@
       <feMorphology
          id="feMorphology3832"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3834"
@@ -291,7 +291,7 @@
       <feMorphology
          id="feMorphology3842"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3844"
@@ -318,7 +318,7 @@
       <feMorphology
          id="feMorphology3852"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3854"
@@ -345,7 +345,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2-7-2"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.5"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1-2-5"
@@ -372,7 +372,7 @@
       <feMorphology
          id="feMorphology3323"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3325"
@@ -399,7 +399,7 @@
       <feMorphology
          id="feMorphology3333"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3335"
@@ -426,7 +426,7 @@
       <feMorphology
          id="feMorphology3343"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3345"
@@ -453,7 +453,7 @@
       <feMorphology
          id="feMorphology3353"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3355"
@@ -480,7 +480,7 @@
       <feMorphology
          id="feMorphology3363"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite3365"
@@ -554,14 +554,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2630065"
-     inkscape:cx="960.5252"
+     inkscape:cx="371.18615"
      inkscape:cy="1475.2339"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -570,13 +570,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Pepper&amp;Carrot\lang\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep07_The-Wish/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E07P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
